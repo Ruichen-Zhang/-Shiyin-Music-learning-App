@@ -1,0 +1,59 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/qidong/qidong",
+    "pages/qidong/qidong_swiper",
+    "pages/navigation/ShouYe/ShouYe",
+    "pages/login/forget",
+    "pages/login/register",
+    "pages/login/loginBySms",
+    "pages/navigation/WoDe/WoDe",
+    "pages/navigation/Middle/Middle",
+    "pages/navigation/ShouYe/video/video",
+    "pages/xunlian/tingyin/tingyin",
+    "pages/xunlian/tingyin/yinfu_list",
+    "pages/xunlian/tingyin/xunlian",
+    "pages/xunlian/shichang/shichang",
+    "pages/xunlian/tingyin/result",
+    "pages/navigation/WoDe/cuoti_list/cuoti_list",
+    "pages/navigation/WoDe/cuoti_list/xunlian",
+    "pages/xunlian/tingyin/exam",
+    "pages/navigation/WoDe/exam_list/exam_list",
+    "pages/navigation/WoDe/exam_list/xunlian",
+    "pages/xunlian/personalise/personalise",
+    "pages/login/index",
+    "pages/login/pwd",
+    "pages/login/sms",
+    "pages/xunlian/shichang/list/list"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "pageOrientation": "auto"
+  },
+  "tabBar": {
+    "height": "49px",
+    "color": "#7A7E83",
+    "selectedColor": "#fc455d",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/navigation/ShouYe/ShouYe",
+        "iconPath": "static/navgiation/ShouYe.png",
+        "selectedIconPath": "static/navgiation/ShouYe_select.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/navigation/WoDe/WoDe",
+        "iconPath": "static/navgiation/wode.png",
+        "selectedIconPath": "static/navgiation/wode_select.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

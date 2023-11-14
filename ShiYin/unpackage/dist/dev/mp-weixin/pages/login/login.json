@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "w-button": "/components/watch-login/watch-button"
+  }
+}

@@ -1,0 +1,11 @@
+
+.button_login{
+	width: 100px;
+	border-radius: 20px;
+	background: linear-gradient(to top right,#4ddaf0,#77f7de);
+	color: #fff;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+

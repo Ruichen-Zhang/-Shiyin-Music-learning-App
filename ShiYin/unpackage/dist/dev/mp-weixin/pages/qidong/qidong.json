@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "启动页",
+  "usingComponents": {
+    "code-elf-guide": "/components/code-elf-guide/code-elf-guide"
+  }
+}

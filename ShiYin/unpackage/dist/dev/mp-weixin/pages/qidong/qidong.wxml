@@ -1,0 +1,1 @@
+<view class="main"><block wx:if="{{guidePages}}"><code-elf-guide vue-id="4fa73900-1" bind:__l="__l"></code-elf-guide></block></view>

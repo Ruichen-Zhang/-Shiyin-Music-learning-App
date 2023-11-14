@@ -1,0 +1,24 @@
+
+.continer{
+	width: 90%;
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+	margin-left: 5%;
+	font-family: xingkai;
+}
+page {
+	width: 100%;
+	height: 100%;
+}
+.scroll-view-img1{
+	height: 250rpx;
+	background-size: 100% 100%;
+	border-radius: 25rpx;
+	margin-top: 30rpx;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+

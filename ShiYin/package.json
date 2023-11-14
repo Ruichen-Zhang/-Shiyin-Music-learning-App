@@ -1,0 +1,10 @@
+{
+    "id": "g-record",
+    "name": "录音插件",
+    "version": "1.0.0",
+    "description": "微信小程序默认录音只有十分钟，uni.getRecorderManager的封装，支持息屏，后台录音，录音时长没有限制",
+    "keywords": [
+        "录音",
+        "getRecorderManager"
+    ]
+}

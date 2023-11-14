@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "练习集",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-dateformat": "/uni_modules/uni-dateformat/components/uni-dateformat/uni-dateformat"
+  }
+}

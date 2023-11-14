@@ -1,0 +1,238 @@
+{
+	"pages": [ 
+		{
+		    "path" : "pages/login/index",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		    
+		},
+		{
+		    "path" : "pages/login/login",
+		    "style": {
+		    	"navigationStyle": "custom",
+		    	"app-plus": {  //uni-app项目对应节点名称为"app-plus"
+		    		 "titleView": false
+		    	  }
+		    }
+		    
+		},  
+		{
+		    "path" : "pages/qidong/qidong",
+			"style": {
+				"navigationBarTitleText": "启动页",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+		    "path" : "pages/navigation/ShouYe/ShouYe",
+		   "style": {
+		   	"navigationStyle": "custom",
+		   	"app-plus": {  //uni-app项目对应节点名称为"app-plus"
+		   		 "titleView": false
+		   	  }
+		   }
+		    
+		},
+
+		
+		{
+		    "path" : "pages/login/forget",
+		   "style": {
+		   	"navigationStyle": "custom",
+		   	"app-plus": {  //uni-app项目对应节点名称为"app-plus"
+		   		 "titleView": false
+		   	  }
+		   }
+		},
+		{
+		    "path" : "pages/login/register",
+		    "style": {
+		    	"navigationStyle": "custom",
+		    	"app-plus": {  //uni-app项目对应节点名称为"app-plus"
+		    		 "titleView": false
+		    	  }
+		    }
+		    
+		}
+	    ,{
+            "path" : "pages/login/loginBySms",
+            "style": {
+            	"navigationStyle": "custom",
+            	"app-plus": {  //uni-app项目对应节点名称为"app-plus"
+            		 "titleView": false
+            	  }
+            }
+            
+        }
+        ,{
+            "path" : "pages/navigation/WoDe/WoDe",
+            "style": {
+            	"navigationStyle": "custom",
+            	"app-plus": {  //uni-app项目对应节点名称为"app-plus"
+            		 "titleView": false
+            	  }
+            }
+            
+        }
+        ,{
+            "path" : "pages/navigation/Middle/Middle",
+           "style": {
+           	"navigationStyle": "custom",
+           	"app-plus": {  //uni-app项目对应节点名称为"app-plus"
+           		 "titleView": false
+           	  }
+           }
+            
+        }
+        
+        ,{
+            "path" : "pages/navigation/ShouYe/video/video",
+			"style": {
+				"app-plus":{
+					"titleNView":false,
+					"bounce":"none"
+				}
+			}
+            
+        }
+       
+        ,{
+            "path" : "pages/xunlian/tingyin/tingyin",
+			"style": {
+				"app-plus":{
+					"titleNView":false,
+					"bounce":"none"
+				}
+			}
+            
+        }
+        ,{
+            "path" : "pages/xunlian/tingyin/yinfu_list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "音符训练",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/xunlian/tingyin/xunlian",
+			"style": {
+				"app-plus":{
+					"titleNView":false,
+					"bounce":"none"
+				}
+			}
+            
+        }
+        ,{
+            "path" : "pages/xunlian/shichang/shichang",
+            "style": {
+            	"app-plus":{
+					"titleNView":false,
+					"bounce":"none"
+            	}
+            }
+            
+        }
+        ,{
+            "path" : "pages/xunlian/tingyin/result",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "训练结果",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/navigation/WoDe/cuoti_list/cuoti_list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "练习集",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/navigation/WoDe/cuoti_list/xunlian",
+            "style": {
+            	"app-plus":{
+            		"titleNView":false,
+            		"bounce":"none"
+            	}
+            }
+            
+        }
+        ,{
+            "path" : "pages/xunlian/tingyin/exam",
+			"style": {
+				"app-plus":{
+					"titleNView":false,
+					"bounce":"none"
+				}
+			}
+            
+        }
+        ,{
+            "path" : "pages/navigation/WoDe/exam_list/exam_list",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "考试记录",
+                "enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/navigation/WoDe/exam_list/xunlian",
+            "style": {
+            	"app-plus":{
+            		"titleNView":false,
+            		"bounce":"none"
+            	}
+            }
+            
+        }
+        ,{
+            "path" : "pages/xunlian/personalise/personalise",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "个性化训练",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/pwd",
+			"style": {
+				"navigationBarTitleText": "启动页",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+            
+        }
+        ,{
+            "path" : "pages/xunlian/shichang/list/list",
+		    "style": {
+		    	"navigationStyle": "custom",
+		    	"app-plus": {  //uni-app项目对应节点名称为"app-plus"
+		    		 "titleView": false
+		    	  }
+		    }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"pageOrientation": "auto"
+	}
+}
